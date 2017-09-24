@@ -1,2 +1,2 @@
-# RamseyLatex
-Copy of Sharelatex Files
+# Readme
+Copy of Sharelatex Files from Sharelatex.
